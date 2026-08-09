@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#fff7ed" />
+  <rect x="80" y="80" width="240" height="160" rx="12" fill="#fb923c" />
+  <circle cx="200" cy="170" r="40" fill="#f97316" />
+  <text x="50%" y="330" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#7c2d12">Product 2</text>
+</svg>
